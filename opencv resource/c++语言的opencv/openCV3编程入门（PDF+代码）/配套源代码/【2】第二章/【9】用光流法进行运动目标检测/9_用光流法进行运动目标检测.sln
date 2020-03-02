@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9_用光流法进行运动目标检测", "9_用光流法进行运动目标检测\9_用光流法进行运动目标检测.vcxproj", "{BC6B02DF-C691-4A2E-9662-8EE7CC3AC734}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6B02DF-C691-4A2E-9662-8EE7CC3AC734}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC6B02DF-C691-4A2E-9662-8EE7CC3AC734}.Debug|Win32.Build.0 = Debug|Win32
+		{BC6B02DF-C691-4A2E-9662-8EE7CC3AC734}.Debug|x64.ActiveCfg = Debug|x64
+		{BC6B02DF-C691-4A2E-9662-8EE7CC3AC734}.Debug|x64.Build.0 = Debug|x64
+		{BC6B02DF-C691-4A2E-9662-8EE7CC3AC734}.Release|Win32.ActiveCfg = Release|Win32
+		{BC6B02DF-C691-4A2E-9662-8EE7CC3AC734}.Release|Win32.Build.0 = Release|Win32
+		{BC6B02DF-C691-4A2E-9662-8EE7CC3AC734}.Release|x64.ActiveCfg = Release|x64
+		{BC6B02DF-C691-4A2E-9662-8EE7CC3AC734}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E74FA47-124F-4C41-9817-B44E298251B9}
+	EndGlobalSection
+EndGlobal

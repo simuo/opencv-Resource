@@ -1,0 +1,8 @@
+﻿  9_OpticalFlow.cpp
+9_OpticalFlow.cpp(152): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 273 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  9_用光流法进行运动目标检测.vcxproj -> E:\ebook\Computer\openCV\OpenCV3-examples\src\【2】第二章\【9】用光流法进行运动目标检测\x64\Release\9_用光流法进行运动目标检测.exe
